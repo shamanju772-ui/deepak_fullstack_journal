@@ -1,1 +1,1 @@
-# deepak_fullstack_journal
+# Full-STack
